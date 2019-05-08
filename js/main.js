@@ -73,7 +73,7 @@ function loadGameApi(d, url, fgJS, firstJS) {
                     "api.payment_cta": "Next",
                     "more_games_image_prefix": "",
                     "more_games_image": "images\/logo.png",
-                    "more_games_url": "http:\/\/game24h.vn",
+                    "more_games_url": "",
                     "preload_image": "\/html5games\/gameapi\/v1\/invisPreloadImage.png",
                     "test_preload_image": "\/html5games\/gameapi\/v1\/testPreloadImage.png"
                 },
